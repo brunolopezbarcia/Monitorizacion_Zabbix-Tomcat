@@ -2,9 +2,9 @@
 
 ## Prerequisitos
 
-* Tener instalado httpd.
-* Tener instalado grafana.
-* Tener instalado wget
+- [x] Tener instalado httpd.
+- [x] Tener instalado grafana.
+- [x] Tener instalado wget
 
 ## Instalación
 
@@ -228,11 +228,11 @@ Ahora solo debes de crear un nuevo dashboard o importar uno de los dashboards cr
 
 ## Prerequsitos
 
-* Tener instalado httpd.
-* Tener instalado grafana.
-* Tener instalado wget.
-* Tener instalado prometheus.
-* Tener instalado curl.
+- [x] Tener instalado httpd.
+- [x] Tener instalado grafana.
+- [x] Tener instalado wget.
+- [x] Tener instalado prometheus.
+- [x] Tener instalado curl.
 
 
 Lo primero que debemos de hacer es descargar el archivo _.tar_ de *apache_exporter*, lo haremos con el siguiente comando:
